@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://zetalabs.io/team",
+    "html": "<html><head><title>Team | Zeta Labs</title><meta property=\"og:site_name\" content=\"Zeta Labs\"><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Zeta Labs\",\"url\":\"https://zetalabs.io\",\"founder\":[{\"@type\":\"Person\",\"name\":\"Asha Rao\"}]}</script></head><body><main><h1>Meet the team</h1><p>Zeta Labs was founded by Asha Rao and Vikram Mehta in 2019. Our Series A round was led by Peak XV Partners with participation from Chiratae Ventures.</p><h3>Asha Rao, Co-founder &amp; CEO</h3><p>Previously led payments at Razorpay.</p><h3>Vikram Mehta — CTO</h3><p>Vikram built our stack on Kafka, PostgreSQL and Kubernetes.</p><h3>Neha Iyer, Head of Talent</h3><p>Neha runs hiring.</p></main></body></html>",
+    "facts": [
+      "Asha Rao|founded|Zeta Labs",
+      "Vikram Mehta|founded|Zeta Labs",
+      "Asha Rao|works_at|Zeta Labs",
+      "Vikram Mehta|works_at|Zeta Labs",
+      "Neha Iyer|works_at|Zeta Labs",
+      "Peak XV Partners|invested_in|Zeta Labs",
+      "Chiratae Ventures|invested_in|Zeta Labs",
+      "Zeta Labs|uses|Kafka",
+      "Zeta Labs|uses|PostgreSQL",
+      "Zeta Labs|uses|Kubernetes"
+    ]
+  },
+  {
+    "url": "https://news.example.com/2026/qdrant-series-b",
+    "html": "<html><head><title>Qdrant raises $50M Series B</title><meta property=\"og:type\" content=\"article\"></head><body><article><h1>Qdrant raises $50M</h1><p>Berlin-based Qdrant, the open source vector database company, announced today that it raised a $50 million Series B. The round was led by AVP with participation from Spark Capital and Unusual Ventures.</p><p>Qdrant was founded by Andre Zayarni and Andrey Vasnetsov in 2021. Its competitors include Pinecone and Weaviate. The company partnered with Microsoft to offer managed clusters.</p><p>Andre Zayarni, CEO of Qdrant, said the funds will grow the engineering team.</p></article></body></html>",
+    "facts": [
+      "AVP|invested_in|Qdrant",
+      "Spark Capital|invested_in|Qdrant",
+      "Unusual Ventures|invested_in|Qdrant",
+      "Andre Zayarni|founded|Qdrant",
+      "Andrey Vasnetsov|founded|Qdrant",
+      "Andre Zayarni|works_at|Qdrant",
+      "Qdrant|competitor_of|Pinecone",
+      "Qdrant|competitor_of|Weaviate",
+      "Qdrant|partner_of|Microsoft"
+    ]
+  },
+  {
+    "url": "https://jobs.example.org/careers/backend-engineer",
+    "html": "<html><head><title>Backend Engineer — Kulfi Labs careers</title><meta property=\"og:site_name\" content=\"Kulfi Labs\"><script type=\"application/ld+json\">{\"@type\":\"JobPosting\",\"title\":\"Backend Engineer\",\"hiringOrganization\":{\"@type\":\"Organization\",\"name\":\"Kulfi Labs\"}}</script></head><body><main><h1>Backend Engineer</h1><p>We're hiring a backend engineer. Apply now. You will build services in Python and Go on top of PostgreSQL and Redis, deployed with Docker on AWS.</p><p>Responsibilities include designing APIs with FastAPI.</p></main></body></html>",
+    "facts": [
+      "Kulfi Labs|uses|Python",
+      "Kulfi Labs|uses|PostgreSQL",
+      "Kulfi Labs|uses|Redis",
+      "Kulfi Labs|uses|Docker",
+      "Kulfi Labs|uses|AWS",
+      "Kulfi Labs|uses|FastAPI"
+    ]
+  },
+  {
+    "url": "https://blog.razorpay.com/author/priya-nair/",
+    "html": "<html><head><title>Priya Nair, Author at Razorpay Blog</title><script type=\"application/ld+json\">{\"@type\":\"ProfilePage\",\"mainEntity\":{\"@type\":\"Person\",\"name\":\"Priya Nair\",\"jobTitle\":\"Senior Data Scientist\",\"worksFor\":{\"@type\":\"Organization\",\"name\":\"Razorpay\"}}}</script></head><body><main><h1>Priya Nair</h1><p>Priya Nair is a senior data scientist who works on fraud detection models for online payments. Priya Nair studied at IIT Madras before joining the payments team. She writes about machine learning, risk scoring and experimentation for the Razorpay engineering blog.</p></main></body></html>",
+    "facts": [
+      "Priya Nair|works_at|Razorpay",
+      "Priya Nair|studied_at|IIT Madras"
+    ]
+  },
+  {
+    "url": "https://www.accel.com/portfolio",
+    "html": "<html><head><title>Portfolio | Accel</title><meta property=\"og:site_name\" content=\"Accel\"></head><body><main><h1>Our portfolio</h1><p>For over two decades Accel has partnered with exceptional founders building category-defining companies. Accel has invested in Freshworks, Swiggy and BrowserStack, among many others across software and consumer internet in India and around the world.</p></main></body></html>",
+    "facts": [
+      "Accel|invested_in|Freshworks",
+      "Accel|invested_in|Swiggy",
+      "Accel|invested_in|BrowserStack"
+    ]
+  },
+  {
+    "url": "https://news.example.in/zomato-blinkit",
+    "html": "<html><head><title>Zomato completes Blinkit deal</title><meta property=\"og:type\" content=\"article\"></head><body><article><h1>Zomato completes Blinkit deal</h1><p>Food delivery company Zomato acquired Blinkit in an all-stock deal, adding a quick commerce business to its platform. Blinkit was founded by Albinder Dhindsa, who will continue to lead the business from Gurugram as it expands its network of dark stores across Indian cities.</p></article></body></html>",
+    "facts": [
+      "Zomato|acquired|Blinkit",
+      "Albinder Dhindsa|founded|Blinkit"
+    ]
+  },
+  {
+    "url": "https://blog.postman.com/engineering/how-we-scale",
+    "html": "<html><head><title>How we scale our platform | Postman Engineering</title><meta property=\"og:site_name\" content=\"Postman\"></head><body><article><h1>How we scale our platform</h1><p>Millions of developers depend on our APIs every day, so reliability is our first engineering principle. Our stack is built for that: we use Kafka for event streams, Kubernetes for orchestration and PostgreSQL for our core metadata store, with careful capacity planning across regions.</p></article></body></html>",
+    "facts": [
+      "Postman|uses|Kafka",
+      "Postman|uses|Kubernetes",
+      "Postman|uses|PostgreSQL"
+    ]
+  },
+  {
+    "url": "https://startupsummit.example.com/speakers",
+    "html": "<html><head><title>Speakers | Startup Summit 2026</title></head><body><main><h1>Speakers</h1><p>Meet the founders and operators sharing their stories at this year's summit on building and scaling technology companies in India.</p><h3>Kunal Shah, Founder of CRED</h3><p>Kunal speaks about trust and consumer behaviour.</p><h3>Nithin Kamath, CEO at Zerodha</h3><p>Nithin speaks about bootstrapping a brokerage.</p></main></body></html>",
+    "facts": [
+      "Kunal Shah|works_at|CRED",
+      "Kunal Shah|founded|CRED",
+      "Nithin Kamath|works_at|Zerodha"
+    ]
+  },
+  {
+    "url": "https://www.freshworks.com/press/google-cloud",
+    "html": "<html><head><title>Freshworks and Google Cloud expand partnership</title><meta property=\"og:site_name\" content=\"Freshworks\"></head><body><article><h1>Freshworks and Google Cloud expand partnership</h1><p>Freshworks partnered with Google Cloud to offer AI agents to mid-market customers. The companies will co-sell the new service desk agents in North America, Europe and India starting next quarter, with data residency options for regulated industries.</p></article></body></html>",
+    "facts": [
+      "Freshworks|partner_of|Google Cloud"
+    ]
+  },
+  {
+    "url": "https://vectordb-review.example.com/pinecone",
+    "html": "<html><head><title>Pinecone review: managed vector search</title></head><body><article><h1>Pinecone review</h1><p>Pinecone is a managed vector database used for semantic search and retrieval. In the market, Pinecone competes with Weaviate and Milvus, which both offer open source options that teams can run on their own infrastructure or as a hosted cloud service.</p></article></body></html>",
+    "facts": [
+      "Pinecone|competitor_of|Weaviate",
+      "Pinecone|competitor_of|Milvus"
+    ]
+  },
+  {
+    "url": "https://learn.example.org/rag",
+    "html": "<html><head><title>What is retrieval-augmented generation?</title></head><body><article><h1>What is retrieval-augmented generation?</h1><p>Retrieval-augmented generation is a type of information retrieval that grounds a language model's answer in documents fetched at query time. It combines a retriever, often built on embeddings and a vector database, with a generator that writes the final answer.</p></article></body></html>",
+    "facts": [
+      "retrieval-augmented generation|part_of|information retrieval"
+    ]
+  },
+  {
+    "url": "https://boards.greenhouse.io/groww/jobs/123",
+    "html": "<html><head><title>Backend Engineer at Groww</title><script type=\"application/ld+json\">{\"@type\":\"JobPosting\",\"title\":\"Backend Engineer\",\"hiringOrganization\":{\"@type\":\"Organization\",\"name\":\"Groww\"}}</script><meta property=\"og:site_name\" content=\"Groww\"></head><body><main><h1>Backend Engineer</h1><p>We're hiring a backend engineer to build trading and investment services used by millions of Indians. You will work with Kafka and AWS, design APIs, and own services end to end. Apply now if you enjoy distributed systems and high-traffic products.</p></main></body></html>",
+    "facts": [
+      "Groww|uses|Kafka",
+      "Groww|uses|AWS"
+    ]
+  },
+  {
+    "url": "https://quantblog.example/how-to-build-a-quant-team/",
+    "html": "<html><head><title>How to Build a Quant Team - Quant Blog</title><meta property=\"og:site_name\" content=\"Quant Blog\"></head><body><article>\n<h1>How to Build a World-Class Quant Team</h1>\n<p>Quant teams combine research, engineering and trading. We look at how leading firms organise them.</p>\n<h3>The D.E. Shaw Group</h3>\n<p>We next take a look at <a href=\"https://www.deshaw.com/\">The DE Shaw Group</a>, which is a global investment and technology firm. It was founded in 1988 by David E. Shaw, a computer scientist. The fund has about $60 billion AUM.</p>\n<h3>Two Sigma</h3>\n<p><a href=\"https://www.twosigma.com/\">Two Sigma</a> was founded in 2001 by computer scientist David Siegel and mathematician John Overdeck. The fund has over $58 billion AUM.</p>\n<p>The final group that we will look at is <a href=\"https://www.citadel.com/\">Citadel Securities</a>, which was founded in 1990 by Kenneth C. Griffin.</p>\n</article></body></html>",
+    "facts": [
+      "David E. Shaw|founded|D.E. Shaw Group",
+      "David Siegel|founded|Two Sigma",
+      "John Overdeck|founded|Two Sigma",
+      "Kenneth C. Griffin|founded|Citadel Securities"
+    ]
+  }
+]
